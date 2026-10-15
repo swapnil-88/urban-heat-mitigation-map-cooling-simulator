@@ -1,0 +1,6 @@
+{
+  "name": "Urban Heat Mitigation Map & Cooling Simulator",
+  "description": "Interactive GIS microclimate cooling simulator for Vadodara Municipal Corporation, modeling urban heat island mitigation and native tree canopy thermodynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
